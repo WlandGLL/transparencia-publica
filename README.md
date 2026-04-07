@@ -93,4 +93,4 @@ Os dados utilizados são públicos e foram tratados para fins de análise e estu
 
 ## 🚀 Autor
 
-Projeto desenvolvido por [Seu Nome]
+Projeto desenvolvido por Wlandimir Gomes
